@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9FCEECFE-E8FF-4A48-B957-8540DF7D19F3}</ProjectGuid>
+    <ProjectGuid>{82F5DDAD-95AC-461F-A387-D843105AC88C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Catur_Jawa</RootNamespace>
